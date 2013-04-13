@@ -612,7 +612,7 @@ if (! class_exists('ICalEvents')) {
 				}
 			}
 			else {
-				echo "Unknown repeat interval: {$rr['Interval']}";
+				//echo "Unknown repeat interval: {$rr['Interval']}";
 			}
 
 			return $repeats;

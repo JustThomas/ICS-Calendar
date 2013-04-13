@@ -35,12 +35,14 @@
 	position:relative;
 }
 
-.ics-calendar-days td {
-	background: #c3d9ff;
-	width:14%;
-	height:18px;
-	vertical-align:middle;
-	text-align:center;
+.ics-calendar-days td
+{
+	background-position: #fcfcfc;
+	background: #009900;
+	width: 14%;
+	height: 18px;
+	vertical-align: middle;
+	text-align: center;
 }
 
 .ics-calendar-table td .date-holder, .ics-calendar-table td .old-date-holder, .ics-calendar-table td .date-holder p {
@@ -57,15 +59,19 @@
 	color:#999999;
 }
 .ics-calendar-table td .ics-calendar-today {
-	background-color:#fffbcc;
+	background-color:#eeeeee;
 	color:#666666;
 }
-.ics-calendar-event {
-	cursor:pointer;
-	width:100%;
-	overflow:hidden;
-	white-space:nowrap;
-	font-size:10px;
+.ics-calendar-event
+{
+	background-position: #FF9900;
+	cursor: pointer;
+	width: 100%;
+	overflow: hidden;
+	white-space: nowrap;
+	font-size: 10px;
+	background: #FF9900;
+	margin-top: 2px;
 }
 
 .ics-calendar-event-box {
@@ -92,4 +98,3 @@
 }
 
 .ics-calendar-permalink { font-size:10px; float:right; padding-left:4px; }
-

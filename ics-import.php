@@ -2,10 +2,10 @@
 /*
 Plugin Name: ICS Calendar
 Plugin URI: http://www.fullimpact.net/ics-calendar.php
-Author: <a href="http://www.fullimpact.net/">Daniel Olfelt</a>
+Author: <a href="http://www.fullimpact.net/">Daniel Olfelt</a>, modified by JustThomas, modified by ws_pirat
 Author URI: http://www.fullimpact.net/
 Tags: calendar, events, ics, ical, icalendar, import, google calendar, event widget, ajax
-Version: v1.6.8
+Version: v1.6.8.2
 Description: A plugin for importing multiple (or one) ICS files from Google, Outlook or iCal into a blog page as an event list or an ajax calendar.
 Text Domain: WPICSImporter 
 */
